@@ -4,7 +4,7 @@ import './Calculator.css';
 class Calculator extends Component {
   constructor(props) {
     super(props)
-    
+
     this.state = {
       bill: 0,
       tip: 0, 
